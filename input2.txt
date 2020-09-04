@@ -1,0 +1,9 @@
+5
+P1,Chais,Supplier1,Category1,10 boxes x 20 bags,18
+P2,Chef Anton's Cajun Seasoning,Supplier2,Category2,48 - 6 oz jars,22
+P3,Chang,Supplier5,Category3,24 - 12 oz bottles,19
+InsertionEnd
+3
+hashSearch,P1,Chais,Supplier1,Category1
+hashSearch,P8,Northwood Cranberry Sauce,Supplier3,Category2
+hashDisplay

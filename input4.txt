@@ -1,0 +1,90 @@
+11
+P1,Chais,Supplier1,Category1,10 boxes x 20 bags,18.00
+P2,Chang,Supplier1,Category1,24 - 12 oz bottles,19.00
+P3,Aniseed Syrup,Supplier1,Category2,12 - 550 ml bottles,10.00
+P4,Chef Anton Cajun Seasoning,Supplier2,Category2,48 - 6 oz jars,22.00
+P5,Chef Anton Gumbo Mix,Supplier2,Category2,36 boxes,21.35
+P6,Grandma Boysenberry Spread,Supplier3,Category2,12 - 8 oz jars,25.00
+P7,Uncle Bob's Organic Dried Pears,Supplier3,Category7,12 - 1 lb pkgs.,30.00
+P8,Northwoods Cranberry Sauce,Supplier3,Category2,12 - 12 oz jars,40.00
+P9,Mishi Kobe Niku,Supplier4,Category6,18 - 500 g pkgs.,97.00
+P10,Ikura,Supplier4,Category8,12 - 200 ml jars,31.00
+P11,Queso Cabrales,Supplier5,Category4,1 kg pkg.,21.00
+P12,Queso Manchego La Pastora,Supplier5,Category4,10 - 500 g pkgs.,38.00
+P13,Konbu,Supplier6,Category8,2 kg box,6.00
+P14,Tofu,Supplier6,Category7,40 - 100 g pkgs.,23.25
+P15,Genen Shouyu,Supplier6,Category2,24 - 250 ml bottles,15.50
+P16,Pavlova,Supplier7,Category3,32 - 500 g boxes,17.45
+P17,Alice Mutton,Supplier7,Category6,20 - 1 kg tins,39.00
+P18,Carnarvon Tigers,Supplier7,Category8,16 kg pkg.,62.50
+P19,Teatime Chocolate Biscuits,Supplier8,Category3,10 boxes x 12 pieces,9.20
+P20,Sir Rodney's Marmalade,Supplier8,Category3,30 gift boxes,81.00
+P21,Sir Rodney's Scones,Supplier8,Category3,24 pkgs. x 4 pieces,10.00
+P22,Gustaf's Knäckebröd,Supplier9,Category5,24 - 500 g pkgs.,21.00
+P23,Tunnbröd,Supplier9,Category5,12 - 250 g pkgs.,9.00
+P24,Guaraná Fantástica,Supplier10,Category1,12 - 355 ml cans,4.50
+P25,NuNuCa Nuß-Nougat-Creme,Supplier11,Category3,20 - 450 g glasses,14.00
+P26,Gumbär Gummibärchen,Supplier11,Category3,100 - 250 g bags,31.23
+P27,Schoggi Schokolade,Supplier11,Category3,100 - 100 g pieces,43.90
+P28,Rössle Sauerkraut,Supplier12,Category7,25 - 825 g cans,45.60
+P29,Thüringer Rostbratwurst,Supplier12,Category6,50 bags x 30 sausgs.,123.79
+P30,Nord-Ost Matjeshering,Supplier13,Category8,10 - 200 g glasses,25.89
+P31,Gorgonzola Telino,Supplier14,Category4,12 - 100 g pkgs,12.50
+P32,Mascarpone Fabioli,Supplier14,Category4,24 - 200 g pkgs.,32.00
+P33,Geitost,Supplier15,Category4,500 g,2.50
+P34,Sasquatch Ale,Supplier16,Category1,24 - 12 oz bottles,14.00
+P35,Steeleye Stout,Supplier16,Category1,24 - 12 oz bottles,18.00
+P36,Inlagd Sill,Supplier17,Category8,24 - 250 g jars,19.00
+P37,Gravad lax,Supplier17,Category8,12 - 500 g pkgs.,26.00
+P38,Côte de Blaye,Supplier18,Category1,12 - 75 cl bottles,263.50
+P39,Chartreuse verte,Supplier18,Category1,750 cc per bottle,18.00
+P40,Boston Crab Meat,Supplier19,Category8,24 - 4 oz tins,18.40
+P41,Jack's New England Clam Chowder,Supplier19,Category8,12 - 12 oz cans,9.65
+P42,Singaporean Hokkien Fried Mee,Supplier20,Category5,32 - 1 kg pkgs.,14.00
+P43,Ipoh Coffee,Supplier20,Category1,16 - 500 g tins,46.00
+P44,Gula Malacca,Supplier20,Category2,20 - 2 kg bags,19.45
+P45,Røgede sild,Supplier21,Category8,1k pkg.,9.50
+P46,Spegesild,Supplier21,Category8,4 - 450 g glasses,12.00
+P47,Zaanse koeken,Supplier22,Category3,10 - 4 oz boxes,9.50
+P48,Chocolade,Supplier22,Category3,10 pkgs.,12.75
+P49,Maxilaku,Supplier23,Category3,24 - 50 g pkgs.,20.00
+P50,Valkoinen suklaa,Supplier23,Category3,12 - 100 g bars,16.25
+P51,Manjimup Dried Apples,Supplier24,Category7,50 - 300 g pkgs.,53.00
+P52,Filo Mix,Supplier24,Category5,16 - 2 kg boxes,7.00
+P53,Perth Pasties,Supplier24,Category6,48 pieces,32.80
+P54,Tourtière,Supplier25,Category6,16 pies,7.45
+P55,Pâté chinois,Supplier25,Category6,24 boxes x 2 pies,24.00
+P56,Gnocchi di nonna Alice,Supplier26,Category5,24 - 250 g pkgs.,38.00
+P57,Ravioli Angelo,Supplier26,Category5,24 - 250 g pkgs.,19.50
+P58,Escargots de Bourgogne,Supplier27,Category8,24 pieces,13.25
+P59,Raclette Courdavault,Supplier28,Category4,5 kg pkg.,55.00
+P60,Camembert Pierrot,Supplier28,Category4,15 - 300 g rounds,34.00
+P61,Sirop d'érable,Supplier29,Category2,24 - 500 ml bottles,28.50
+P62,Tarte au sucre,Supplier29,Category3,48 pies,49.30
+P63,Vegie-spread,Supplier7,Category2,15 - 625 g jars,43.90
+P64,Wimmers gute Semmelknödel,Supplier12,Category5,20 bags x 4 pieces,33.25
+P65,Louisiana Fiery Hot Pepper Sauce,Supplier2,Category2,32 - 8 oz bottles,21.05
+P66,Louisiana Hot Spiced Okra,Supplier2,Category2,24 - 8 oz jars,17.00
+P67,Laughing Lumberjack Lager,Supplier16,Category1,24 - 12 oz bottles,14.00
+P68,Scottish Longbreads,Supplier8,Category3,10 boxes x 8 pieces,12.50
+P69,Gudbrandsdalsost,Supplier15,Category4,10 kg pkg.,36.00
+P70,Outback Lager,Supplier7,Category1,24 - 355 ml bottles,15.00
+P71,Fløtemysost,Supplier15,Category4,10 - 500 g pkgs.,21.50
+P72,Mozzarella di Giovanni,Supplier14,Category4,24 - 200 g pkgs.,34.80
+P73,Röd Kaviar,Supplier17,Category8,24 - 150 g jars,15.00
+P74,Longlife Tofu,Supplier4,Category7,5 kg pkg.,10.00
+P75,Rhönbräu Klosterbier,Supplier12,Category1,24 - 0.5 l bottles,7.75
+P76,Lakkalikööri,Supplier23,Category1,500 ml,18.00
+P77,Original Frankfurter grüne Soße,Supplier12,Category2,12 boxes,13.00
+InsertionEnd
+10
+hashDisplay
+hashSearch,P77,Original Frankfurter grüne Soße,Supplier12,Category2
+hashSearch,P36,Inlagd Sill,Supplier17,Category8
+hashSearch,P72,Mozzarella di Giovanni,Supplier4,Category5
+hashDelete,P18,Carnarvon Tigers,Supplier7,Category8
+hashDelete,P74,Longlife Tofu,Supplier4,Category7
+hashDelete,P68,Scottish Longbreads,Supplier8,Category3
+hashDelete,P17,Alice Mutton,Supplier7,Category6
+hashDelete,P1,Chais,Supplier2,Category1
+hashDisplay
